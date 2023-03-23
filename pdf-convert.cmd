@@ -1,0 +1,1 @@
+write /pt "%cd%\thread.txt" "Microsoft Print to PDF" "Microsoft Print to PDF" "%cd%\temp.pdf" 
