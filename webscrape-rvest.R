@@ -10,4 +10,5 @@ text =
   html_elements(css_selector) |> 
   html_text2()
 
-writeLines(text, )
+# Save to text file
+writeLines(text, "output/thread.txt")
